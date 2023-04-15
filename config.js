@@ -11,11 +11,11 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-['12362000021', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈', true], 
-['5492266613038', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
-['59894808483'],     
-['5214531173598'], ['5214531106422'], ['5492266466080'], ['51914725037'], 
-['593968585383', 'Gata 💻', true]]
+['971553527240', 'zero two🌻🐈', true], 
+['971553527240', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
+['971553527240'],     
+['971553527240'], ['971553527240'], ['971553527240'], ['971553527240'], 
+['971553527240', 'Gata 💻', true]]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -119,11 +119,11 @@ global.md = 'https://github.com/GataNina-Li/GataBotLite-MD'
 global.fb = 'https://www.facebook.com/groups/872989990425789/'
 
 
-global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
+global.nna = 'https://chat.whatsapp.com/LAASmxox5c75HILkYXe2AX' //UPDATE GATABOT
 
-global.nn = 'https://chat.whatsapp.com/KwoMppqeh4lH27rNM4qEbz' //Grupo 1
+global.nn = 'https://chat.whatsapp.com/LAASmxox5c75HILkYXe2AX' //Grupo 1
 
-global.nnn = 'https://chat.whatsapp.com/DUU638FK74P7KWmRAd4u4J' //Grupo 2
+global.nnn = 'https://chat.whatsapp.com/LAASmxox5c75HILkYXe2AX' //Grupo 2
 
 global.nnnt = 'https://chat.whatsapp.com/Kt5EXwUhcO8Ay76CIDLs7d' //Grupo 3
 
